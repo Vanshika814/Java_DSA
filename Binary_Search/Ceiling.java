@@ -8,7 +8,11 @@ public class Ceiling {
         System.out.println(ans);
         
     }
+    //ceiling: smallest no. greater than equal to >=target
      static int ceiling(int[] arr, int target){
+        if(target > arr[arr.length-1]){ // but what if the target is greater than the greatest number in the array
+            return -1;
+        }
         int start = 0;
         int end = arr.length-1;
         

@@ -8,6 +8,7 @@ public class Floor {
         System.out.println(ans);
         
     }
+    //floor: greatest no. smaller or equal to <= target
      static int floor(int[] arr, int target){
         int start = 0;
         int end = arr.length-1;
@@ -22,7 +23,7 @@ public class Floor {
                 return mid;
             }
         }
-        return arr[end];
+        return end;
      
     }
 }
