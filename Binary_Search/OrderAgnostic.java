@@ -35,7 +35,6 @@ public class OrderAgnostic {
                     start = mid + 1;
                 }
             }
-
             
         }
         return -1;
