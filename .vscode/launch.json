@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "ArrayList.ArrayListExample",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Missingnum",
+            "request": "launch",
+            "mainClass": "Sorting.Missingnum",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Cycle",
+            "request": "launch",
+            "mainClass": "Sorting.Cycle",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "Insertion",
             "request": "launch",
             "mainClass": "Sorting.Insertion",
