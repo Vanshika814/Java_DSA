@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "StringsOperator.palindrome",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "StringsOperator.Methods",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "SB",
+            "request": "launch",
+            "mainClass": "StringsOperator.SB",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Performance",
+            "request": "launch",
+            "mainClass": "StringsOperator.Performance",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "StringsOperator.Operators",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "ArrayListExample",
             "request": "launch",
             "mainClass": "ArrayList.ArrayListExample",
