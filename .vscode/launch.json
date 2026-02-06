@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Recursion.Binary",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Recursion.Fibo",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "NumbersExampleRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.NumbersExampleRecursion",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "NumbersExample",
+            "request": "launch",
+            "mainClass": "Recursion.NumbersExample",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "palindrome",
             "request": "launch",
             "mainClass": "StringsOperator.palindrome",
