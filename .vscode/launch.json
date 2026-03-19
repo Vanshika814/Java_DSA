@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Innerclass",
+            "request": "launch",
+            "mainClass": "OOPS.Static.Innerclass",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "StaticBlock",
+            "request": "launch",
+            "mainClass": "OOPS.Static.StaticBlock",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Static.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "OOPS.packages.a.Greeting",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "Binary",
             "request": "launch",
             "mainClass": "Recursion.Binary",
