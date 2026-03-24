@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubClass",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Access.SubClass",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "ObjectDemo",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Access.ObjectDemo",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Numbers",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Polymorphism.Numbers",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Polymorphism.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.inheritance.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "Innerclass",
             "request": "launch",
             "mainClass": "OOPS.Static.Innerclass",
