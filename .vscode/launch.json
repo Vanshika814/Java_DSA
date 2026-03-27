@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomGenericArrayList",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Generics.CustomGenericArrayList",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "CustomArrayList",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Generics.CustomArrayList",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Interfaces.Nested.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.Interfaces.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Properties.AbstractDemo.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "SubClass",
             "request": "launch",
             "mainClass": "OOPS.Properties.Access.SubClass",

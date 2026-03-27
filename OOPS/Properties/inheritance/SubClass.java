@@ -1,6 +1,5 @@
 package OOPS.Properties.inheritance;
 import OOPS.Properties.Access.A;
-import OOPS.Properties.Access.Subclass;
 
 public class SubClass extends A{
 
@@ -9,7 +8,7 @@ public class SubClass extends A{
     }
     
     public static void main(String[] args){
-        SubClass  obj = new SubClass(52, "vanshika");
+        SubClass obj = new SubClass(52, "vanshika");
     //    int n = obj.num;
     }
 }
