@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LinkedList.SinglyLinkedList.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LinkedList.CircularLinkedList.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLinkedList.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LinkedList.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
             "name": "CustomGenericArrayList",
             "request": "launch",
             "mainClass": "OOPS.Properties.Generics.CustomGenericArrayList",
