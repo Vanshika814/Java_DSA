@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Heap.Main",
+            "projectName": "Java_DSA_bc95aaf6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Trees.Main",
             "projectName": "Java_DSA_bc95aaf6"
         },

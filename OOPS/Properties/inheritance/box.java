@@ -4,26 +4,28 @@ public class box {
      double l;
      double h;
      double w;
-     //doubke weight;
+     //double weight;
 
-
+   //static method
      static void greeting(){
         System.out.println("Hello, I am in box class!!");
      }
 
+     //constructor 1
      box(){
         this.l=-1;
         this.h=-1;
         this.w=-1;
      }
 
+     //constructor 2
      box(double side){
         super();
         this.l=side;
         this.h=side;
         this.w=side;
      }
-
+     //parameterised constructor
      box(double l, double h, double w){
         this.l=l;
         this.h=h;

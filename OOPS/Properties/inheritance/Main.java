@@ -2,9 +2,9 @@ package OOPS.Properties.inheritance;
 
 public class Main {
     public static void main(String[] args) {
-      //  box Box1 = new box(3.3,4,5);
-       // box Box2 = new box(Box1);
-        //System.out.println(Box1.l + " " + Box1.h + " " + Box1.w);
+       box Box1 = new box(3.3,4,5);
+       box Box2 = new box(Box1);
+       System.out.println(Box1.l + " " + Box1.h + " " + Box1.w);
 
         // BoxWeight box3 = new BoxWeight();
         // BoxWeight box4 = new BoxWeight(2,3,4,5);
@@ -22,13 +22,13 @@ public class Main {
       //  BoxWeight Box6 = new box(2,3,4);
         //System.out.println(Box6.weight);
 
-        BoxPrize box = new BoxPrize(5,7,8);
+        // BoxPrize box = new BoxPrize(5,7,8);
 
 
-        //box.greeting();
+        // //box.greeting();
 
-        box Box = new BoxWeight();
-        Box.greeting(); // you can inherit but you cannot override.  
+        // box Box = new BoxWeight();
+        // Box.greeting(); // you can inherit but you cannot override.  
     }
 }
  
